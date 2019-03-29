@@ -15,6 +15,7 @@ All of the dependencies in this project are libraries included with Anaconda. Th
 * numpy 
 * statistics
 * scipy.stats
+* pathlib
 
 ## Running the Project
 1. Clone the project from GitHub.
