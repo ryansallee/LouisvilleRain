@@ -7,14 +7,14 @@ Louisville, KY's rainfall from the [National Weather Service- Now] (https://w2.w
 
 ## Dependencies
 All of the dependencies in this project are libraries included with Anaconda. The dependencies are as follows:
-*os
-*csv
-*sqlite3
-*pandas 
-*matplotlib.pyplot
-*numpy 
-*statistics
-*scipy.stats
+* os
+* csv
+* sqlite3
+* pandas 
+* matplotlib.pyplot
+* numpy 
+* statistics
+* scipy.stats
 
 ## Running the Project
 1. Clone the project from GitHub.
